@@ -1,5 +1,5 @@
 {
   "project_name": "cookiecutter-base",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-  "description": "Generic Project Description"
+  "description": "generic-project-description"
 }
