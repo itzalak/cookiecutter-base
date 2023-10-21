@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/simao-ferreira/cookiecutter-base/compare/v1.0.0...v1.0.1) (2023-10-21)
+
+
+### Changed
+
+* Update cookiecutter json definition after testing cookiecutter ([dbd0fc5](https://github.com/simao-ferreira/cookiecutter-base/commit/dbd0fc5cd54421255212e82c464b7021ae8cf10a))
+
 ## 1.0.0 (2023-10-21)
 
 
