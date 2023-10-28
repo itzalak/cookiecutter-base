@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/simao-ferreira/cookiecutter-base/compare/v1.0.1...v1.0.2) (2023-10-28)
+
+
+### Changed
+
+* Improve readme ([aa1c33f](https://github.com/simao-ferreira/cookiecutter-base/commit/aa1c33f82db7c81e27ecda6a5935f24e00a4dec9))
+
 ## [1.0.1](https://github.com/simao-ferreira/cookiecutter-base/compare/v1.0.0...v1.0.1) (2023-10-21)
 
 
