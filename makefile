@@ -1,5 +1,6 @@
 # Makefile
 
+# Pre commit
 pre-commit: setup-pre-commit update-pre-commit
 
 setup-pre-commit:

@@ -14,3 +14,17 @@ Simple and straightforward, no language configuration.
 
 For using release please, update `settings > actions > workflow permissions` for `Read and write permissions`,
 and `Allow Github Actions to create and aprove pull requests`
+
+## Use
+
+To create a repository using a cookie cookiecutter template
+
+```shell
+cookiecutter https://github.com/simao-ferreira/cookiecutter-base.git
+```
+
+## Cookiecutter
+
+- <https://github.com/cookiecutter/cookiecutter>
+- <https://cookiecutter.readthedocs.io/en/stable/>
+- <https://www.cookiecutter.io/templates>
