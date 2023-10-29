@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.1.0 (2023-10-29)
+
+### Feature
+
+- Migrate to commitizen, include commitizen option on template
+
+### Patch
+
+- Improve readme
+
 ## [1.0.1](https://github.com/simao-ferreira/cookiecutter-base/compare/v1.0.0...v1.0.1) (2023-10-21)
 
 
