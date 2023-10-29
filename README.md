@@ -7,13 +7,20 @@ Simple and straightforward, no language configuration.
 ## Configuration
 
 - [release please](https://github.com/googleapis/release-please) for github actions
+- [commitizen](https://commitizen-tools.github.io/commitizen/) for github actions
 - [pre commit config](https://github.com/pre-commit/pre-commit)
 - [markdown lint](https://github.com/igorshubovych/markdownlint-cli)
 - [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [makefile](https://makefiletutorial.com/)
 
-For using release please, update `settings > actions > workflow permissions` for `Read and write permissions`,
-and `Allow Github Actions to create and aprove pull requests`
+### Release please
+
+For using release please, github actions requires permissions for creating and approving pull requests.
+
+In `Settings > Actions > General` find `Workflow permissions` and update
+
+- `Read and write permissions`
+- `Allow Github Actions to create and aprove pull requests`
 
 ## Use
 

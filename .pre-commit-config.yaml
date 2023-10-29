@@ -11,7 +11,11 @@ repos:
     rev: v4.5.0
     hooks:
       - id: check-yaml
-        exclude: ^{{ cookiecutter.project_slug }}/.github/workflows/release-please.yaml
+        exclude: >
+          (?x)^(
+            (.*)/.pre-commit-config.yaml|
+            (.*)/.github/workflows/release-please.yaml
+          )$
       - id: end-of-file-fixer
       - id: trailing-whitespace
       - id: check-json
@@ -21,12 +25,11 @@ repos:
       - id: check-case-conflict
       - id: detect-private-key
 
-  - repo: https://github.com/compilerla/conventional-pre-commit
-    rev: v2.4.0
+  - repo: https://github.com/commitizen-tools/commitizen
+    rev: 3.12.0
     hooks:
-      - id: conventional-pre-commit
+      - id: commitizen
         stages: [commit-msg]
-        args: [fix, feat, chore, docs, feat!, chore!, fix!]
 
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.37.0
