@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.1 (2023-10-29)
+
+### Fix
+
+- Fix temple version for commitizen instantiation
+
 ## v1.1.0 (2023-10-29)
 
 ### Feature
