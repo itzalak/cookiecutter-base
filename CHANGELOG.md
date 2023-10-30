@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.1.2 (2023-10-30)
+
+### Fix
+
+- Fix versioning
+
+### Patch
+
+- Adjust configuration to include testing
+
 ## v1.1.1 (2023-10-29)
 
 ### Fix
