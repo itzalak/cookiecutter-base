@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.3 (2024-01-23)
+
+### Patch
+
+- Update poetry
+
 ## v1.1.2 (2023-10-30)
 
 ### Fix
