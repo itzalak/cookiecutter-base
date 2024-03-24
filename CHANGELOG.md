@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.6 (2024-03-24)
+
+### Patch
+
+- Poetry dependency update
+
 ## v1.1.5 (2024-03-24)
 
 ### Patch
