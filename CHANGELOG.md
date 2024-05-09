@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.7 (2024-05-09)
+
+### Tools
+
+- Update makefile, poetry and pre commit
+
 ## v1.1.6 (2024-03-24)
 
 ### Patch
