@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.8 (2024-05-09)
+
+### Changed
+
+- Update template dependencies
+
 ## v1.1.7 (2024-05-09)
 
 ### Tools
